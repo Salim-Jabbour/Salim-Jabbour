@@ -1,3 +1,4 @@
+![](https://github.com/Salim-Jabbour/Salim-Jabbour/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Salim Jabbour</h1>
 <h3 align="center">A passionate flutter developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif?cid=ecf05e47qeotsebzhd2vgzvlnqmolg7c5lztpmfv9h21buvz&rid=giphy.gif&ct=g">
