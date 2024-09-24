@@ -1,15 +1,13 @@
 ![](https://github.com/Salim-Jabbour/Salim-Jabbour/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Salim Jabbour</h1>
-<h3 align="center">A passionate flutter developer</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif?cid=ecf05e47qeotsebzhd2vgzvlnqmolg7c5lztpmfv9h21buvz&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salim-jabbour&label=Profile%20views&color=0e75b6&style=flat" alt="salim-jabbour" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
-
 - 👨‍💻 All of my projects are available at my <a href="https://website-portfolio-d6461.web.app/">Website</a>
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **Software Engineering**
 
 - 📫 How to reach me **salimwjabbour@gmail.com**
 
