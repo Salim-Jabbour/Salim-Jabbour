@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salim-jabbour&label=Profile%20views&color=0e75b6&style=flat" alt="salim-jabbour" /> </p>
 
-- 👨‍💻 All of my projects are available at my <a href="https://website-portfolio-d6461.web.app/">Website</a>
+- 👨‍💻 All of my projects are available at my <a href="https://salimjabbour.web.app/">Website</a>
 
 - 💬 Ask me about **Software Engineering**
 
